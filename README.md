@@ -1,2 +1,2 @@
-# about tashkent
+# about Andijan
 
