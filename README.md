@@ -1,3 +1,8 @@
-# about tashkent
+
+# about Andijan
+baliqchi
+chinobod
+shahrixon
+izboskan
 chilanzar
 
