@@ -1,4 +1,5 @@
 # about Andijan
 
 baliqchi
+chinobod
 
