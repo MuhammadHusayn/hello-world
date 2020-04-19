@@ -3,4 +3,5 @@
 baliqchi
 chinobod
 shahrixon
+izboskan
 
